@@ -1,8 +1,9 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! Here's a little about me: 
+Welcome to my GitHub profile! 
 
- ## 🔧 Languages and tools 
+
+## 🔧 Languages and tools 
 
   <div align="left"> 
     <code><a href="https://www.java.com" title="Java" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></code>
@@ -18,14 +19,16 @@ Welcome to my GitHub profile! Here's a little about me:
 ## 🏆 GitHub Trophies
 
   ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ImanNazirah&theme=radical&rank=S,AAA,AA,A,B&&margin-w=4)
-  
 
 ## 📊 GitHub Stats 
 
 <p align="center">
- <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=ImanNazirah&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=ImanNazirah&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact&hide_rank=true&hide=contribs,issues" />
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImanNazirah&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact&exclude_repo=restful-api-laravel,1DHeatEquation,Group-Project-Matrix-Theory-Fractals,FYP-NumericalMethodForSolvingEllipticEquation,boundary-layer-,FLUID-MECHANICS-AND-HEAT-MASS-TRANSFER-assignment1">
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ImanNazirah&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
 <p>
+
+<p align="center">
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImanNazirah&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact&exclude_repo=restful-api-laravel,1DHeatEquation,Group-Project-Matrix-Theory-Fractals,FYP-NumericalMethodForSolvingEllipticEquation,boundary-layer-,FLUID-MECHANICS-AND-HEAT-MASS-TRANSFER-assignment1">
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=ImanNazirah&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact&hide_rank=true&hide=contribs,issues" />
+</p>
 
 
