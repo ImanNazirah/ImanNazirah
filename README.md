@@ -14,6 +14,7 @@ Welcome to my GitHub profile!
     <code><a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></code>
     <code><a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
     <code><a href="https://www.elastic.co/elasticsearch/" title="Elasticsearch" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/elasticsearch/elasticsearch.png" alt="Elasticsearch" width="40" height="40"/></a></code>
+    <code><a href="https://www.docker.com" title="Docker" target="_blank"><img src="https://avatars.githubusercontent.com/u/7739233?s=200&v=4" alt="Elasticsearch" width="40" height="40"/></a></code>
 </div>
 
 ## 🏆 GitHub Trophies
@@ -30,5 +31,9 @@ Welcome to my GitHub profile!
 <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImanNazirah&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact&exclude_repo=restful-api-laravel,1DHeatEquation,Group-Project-Matrix-Theory-Fractals,FYP-NumericalMethodForSolvingEllipticEquation,boundary-layer-,FLUID-MECHANICS-AND-HEAT-MASS-TRANSFER-assignment1">
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ImanNazirah&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact&hide_rank=true&hide=contribs,issues" />
 </p>
+
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImanNazirah&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact&exclude_repo=restful-api-laravel">
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImanNazirah&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact">
+
 
 
