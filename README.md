@@ -32,8 +32,5 @@ Welcome to my GitHub profile!
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ImanNazirah&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact&hide_rank=true&hide=contribs,issues" />
 </p>
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImanNazirah&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact&exclude_repo=restful-api-laravel">
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImanNazirah&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact">
-
 
 
